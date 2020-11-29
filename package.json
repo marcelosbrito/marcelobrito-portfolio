@@ -4,7 +4,7 @@
   "description": "Responsive Portfolio created with SASS & JS",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d - dist"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
